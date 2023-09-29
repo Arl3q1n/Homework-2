@@ -14,7 +14,7 @@ public class Variables {
         System.out.println("First Letter In Alphabet - " + FirstLetterInAlphabet);
 
         boolean JavaIsAmazing = true;
-        System.out.println("Java Is Amazing - " +JavaIsAmazing);
+        System.out.println("Java Is Amazing - " + JavaIsAmazing);
 
         double Pi = 3.14159;
         System.out.println("Pi - " + Pi);
